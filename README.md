@@ -82,5 +82,5 @@ A web application for managing and displaying courses with backend functionality
 
 ## Connect With Me
 
-* LinkedIn: My LinkedIn Profile
+* LinkedIn:https://www.linkedin.com/in/mohammed-tarek-279206367/
 * GitHub: M0hammed180
