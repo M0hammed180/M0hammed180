@@ -58,19 +58,19 @@ A full-stack real-time chat application built with React, Node.js, Express.js, M
 
 Features include real-time messaging, private chats, group chats, online status, typing indicators, read/unread messages, file uploads, and group management.
 
-[View Repository]
+[View Repository](https://github.com/M0hammed180/Chat)
 
 ### Hospital Appointment System
 
 A full-stack hospital appointment booking application built with React, Node.js, Express.js, and MongoDB.
 
-[View Repository]
+[View Repository](https://github.com/M0hammed180/Hospital-Project)
 
 ### Course Application
 
 A web application for managing and displaying courses with backend functionality and file uploads.
 
-[View Repository]
+[View Repository](https://github.com/M0hammed180/Course)
 
 ## Currently Learning
 
@@ -82,5 +82,5 @@ A web application for managing and displaying courses with backend functionality
 
 ## Connect With Me
 
-* LinkedIn:https://www.linkedin.com/in/mohammed-tarek-279206367/
+* LinkedIn:[My LinkedIn Profile](https://www.linkedin.com/in/mohammed-tarek-279206367/)
 * GitHub: M0hammed180
