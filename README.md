@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi, I'm Mohamed Tarek
 
-<!--
-**M0hammed180/M0hammed180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a third-year Computer Science student at **Sadat University**, interested in building modern web applications and full-stack systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on both frontend and backend development, with a particular interest in real-time applications and building practical projects.
+
+## About Me
+
+* Computer Science Student at Sadat University
+* Third Year
+* Full-Stack Developer
+* Interested in Web Development and Real-Time Applications
+* Currently improving my skills through practical projects
+
+## Tech Stack
+
+### Frontend
+
+* JavaScript
+* React.js
+* React Router
+* Redux Toolkit
+* Tailwind CSS
+* Bootstrap
+* SCSS
+* Material UI
+* Formik
+* Yup
+* Axios
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Socket.IO
+* Multer
+
+### Database
+
+* MongoDB
+* Mongoose
+
+### Tools
+
+* Git
+* GitHub
+* Vite
+* npm
+
+## Featured Projects
+
+### Real-Time Chat Application
+
+A full-stack real-time chat application built with React, Node.js, Express.js, MongoDB, and Socket.IO.
+
+Features include real-time messaging, private chats, group chats, online status, typing indicators, read/unread messages, file uploads, and group management.
+
+[View Repository]
+
+### Hospital Appointment System
+
+A full-stack hospital appointment booking application built with React, Node.js, Express.js, and MongoDB.
+
+[View Repository]
+
+### Course Application
+
+A web application for managing and displaying courses with backend functionality and file uploads.
+
+[View Repository]
+
+## Currently Learning
+
+* Advanced React.js
+* Backend Development with Node.js and Express.js
+* Real-Time Applications with Socket.IO
+* Better Database Design
+* Full-Stack Application Architecture
+
+## Connect With Me
+
+* LinkedIn: My LinkedIn Profile
+* GitHub: M0hammed180
